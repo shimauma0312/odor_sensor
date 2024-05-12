@@ -1,6 +1,6 @@
-# くさかったら「くっせえ」と言うセンサー
+# “Stinky” Sensor: Detecting Unpleasant Odors
 
-くさい状況を検出し、オーディオで反応を示すセンサーを作成する。センサーにはTGS2450を使用する。
+We will create a sensor that detects foul smells and abnormal odors, responding with an audio message saying “くっせえ” (which roughly translates to “stinky” in Japanese). The sensor we’ll use is the TGS2450.
 
 ## 概要
 

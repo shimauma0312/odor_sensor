@@ -1,3 +1,4 @@
+Drafted on [2022]
 # “Stinky” Sensor: Detecting Unpleasant Odors
 
 We will create a sensor that detects foul smells and abnormal odors, responding with an audio message saying “くっせえ” (which roughly translates to “stinky” in Japanese). The sensor we’ll use is the TGS2450.
